@@ -31,6 +31,6 @@ Personal portfolio website built with Astro and TailwindCSS
 
 ## Let's Connect
 
-- 📧 Email: [leopold.blum@gmx.de]
-- 🌐 Website: [https://cv.leopold-blum.de]
+- 📧 Email: leopold.blum@gmx.de
+- 🌐 Website: https://cv.leopold-blum.de
 - 📍 Based in Berlin, Germany
